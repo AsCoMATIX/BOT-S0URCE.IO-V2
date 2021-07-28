@@ -4,3 +4,4 @@ por pouvoir faire marcher le bot vous aurait cas copié coller le code  sur goog
 puis vous appuyé sur entrée une fois cela fait vous allez taper ceci pour lancée le bot 
 en desous du dérnier } vous taper 
 app.start();
+LE BOT A ETAIT CODER PAR UN AMIE A MOI QUI DEBUTE DANS LE MONDE DU CODAGE DONC VOUS AVAIT L'AMIABILITE D'ÊTRE SYMPATHIQUE AVEC LUIS ET D'EVITER LES CRITIQUE MERCI ;)
